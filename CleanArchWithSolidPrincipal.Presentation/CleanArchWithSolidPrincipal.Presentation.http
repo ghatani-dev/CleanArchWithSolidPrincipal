@@ -1,0 +1,6 @@
+@CleanArchWithSolidPrincipal.Presentation_HostAddress = http://localhost:5026
+
+GET {{CleanArchWithSolidPrincipal.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
